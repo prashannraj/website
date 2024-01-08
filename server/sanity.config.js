@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'SoundDZign',
+  title: 'responsive',
 
-  projectId: 'z5ks6rrx',
+  projectId: 'zaul42ox',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
