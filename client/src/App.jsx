@@ -1,8 +1,9 @@
 import React from "react";
 import { Header, Info, Topics, Blog, Testimonials, Footer } from "./components";
 
+
 const App = () => {
-  return (
+ return (
     <>
       <Header />
       <Topics />

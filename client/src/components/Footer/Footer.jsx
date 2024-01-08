@@ -27,7 +27,7 @@ const Footer = () => {
             </div>
 
             <div className="copyright">
-              This website is designed by GTCoding Ⓒ 2023
+              This website is designed by Prashann Raj Ⓒ 2024
             </div>
           </div>
 
@@ -52,13 +52,13 @@ const Footer = () => {
               </li>
 
               <li>
-                <a href="#">+1 999 9999 999</a>
+                <a href="#">+977 999 9999 999</a>
               </li>
             </ul>
           </div>
 
           <div className="copyright mobile">
-            This website is designed by GTCoding Ⓒ 2023
+            This website is designed by Prashann Raj Ⓒ 2024
           </div>
         </div>
       </div>
